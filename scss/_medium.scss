@@ -19,8 +19,8 @@ nav {
         transition: background 0.5s linear;
     }
     ul li a:hover {
-        background-color: $primaryColor;
-        color: beige;
+        background-color: $backgroundcolor;
+        color: $secondaryColor;
     }
 }
 

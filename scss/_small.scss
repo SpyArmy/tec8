@@ -32,7 +32,7 @@ header {
     span {
         font-size: 1.6rem;
         font-weight: $lightWeight;
-        color: $secondaryColor;
+        color: $backgroundcolor;
     }
     img {
         width: 40px;
@@ -175,13 +175,17 @@ nav ul.open {
   
 
   .front {
-    background-color: $secondaryColor;
+    background-color: $backgroundcolor;
     color: black;
+  }
+
+  h2 {
+    color: $backgroundcolor;
   }
 
   .back {
     background-color: $primaryColor;
-    color: white;
+    color: $backgroundcolor;
     transform: rotateY(180deg);
   }
   img {
@@ -204,7 +208,7 @@ main {
     h1 {
         padding: 1rem $gutter.5rem $gutter;
         font-size: 1.5rem;
-        color: $secondaryColor;
+        color: $backgroundcolor;
         font-weight: $lightWeight
     }
     p {

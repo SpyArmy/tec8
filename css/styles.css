@@ -335,7 +335,7 @@ header {
 header span {
   font-size: 1.6rem;
   font-weight: 300;
-  color: #EEA00F;
+  color: #181A27;
 }
 header img {
   width: 40px;
@@ -455,12 +455,15 @@ nav ul.open {
   backface-visibility: hidden;
 }
 .cards .front {
-  background-color: #EEA00F;
+  background-color: #181A27;
   color: black;
+}
+.cards h2 {
+  color: #181A27;
 }
 .cards .back {
   background-color: #E6D1B4;
-  color: white;
+  color: #181A27;
   transform: rotateY(180deg);
 }
 .cards img {
@@ -472,7 +475,7 @@ nav ul.open {
 main h1 {
   padding: 1rem 10px 0.5rem 10px;
   font-size: 1.5rem;
-  color: #EEA00F;
+  color: #181A27;
   font-weight: 300;
 }
 main p {
@@ -514,8 +517,8 @@ footer a {
     transition: background 0.5s linear;
   }
   nav ul li a:hover {
-    background-color: #E6D1B4;
-    color: beige;
+    background-color: #181A27;
+    color: #EEA00F;
   }
   .cards {
     display: grid;
