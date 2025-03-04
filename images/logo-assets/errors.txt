@@ -1,0 +1,7 @@
+[3/3/2025, 8:14:06 PM] layer "HLogo-icon.png, 40x40 wLogo1x.png, 120x120 wLogo2x.png, 600x600 wLogo3x.png": Duplicate path: wLogo1x.png
+[3/3/2025, 8:14:06 PM] layer "HLogo-icon.png, 40x40 wLogo1x.png, 120x120 wLogo2x.png, 600x600 wLogo3x.png": Duplicate path: wLogo2x.png
+[3/3/2025, 8:14:06 PM] layer "HLogo-icon.png, 40x40 wLogo1x.png, 120x120 wLogo2x.png, 600x600 wLogo3x.png": Duplicate path: wLogo3x.png
+[3/3/2025, 8:14:06 PM] layer "wLogo-icon.png, 40x40 wLogo1x.png, 120x120 wLogo2x.png, 600x600 wLogo3x.png": Duplicate path: wLogo-icon.png
+[3/3/2025, 8:14:06 PM] layer "wLogo-icon.png, 40x40 wLogo1x.png, 120x120 wLogo2x.png, 600x600 wLogo3x.png": Duplicate path: wLogo1x.png
+[3/3/2025, 8:14:06 PM] layer "wLogo-icon.png, 40x40 wLogo1x.png, 120x120 wLogo2x.png, 600x600 wLogo3x.png": Duplicate path: wLogo2x.png
+[3/3/2025, 8:14:06 PM] layer "wLogo-icon.png, 40x40 wLogo1x.png, 120x120 wLogo2x.png, 600x600 wLogo3x.png": Duplicate path: wLogo3x.png
